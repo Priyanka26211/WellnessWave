@@ -1,4 +1,4 @@
-# 🌊 WellnessWave
+# 🌊🐚 WellnessWave
 
 Welcome to **WellnessWave** – your ultimate companion in mental health and well-being. Dive into a world where AI-driven insights meet gamification, creating a holistic approach to managing your mental wellness.
 
