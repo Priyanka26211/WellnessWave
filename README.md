@@ -7,8 +7,6 @@ Welcome to **WellnessWave** – your ultimate companion in mental health and wel
 - [Key Features](#key-features)
 - [🚀 Getting Started](#getting-started)
 - [Usage Guide](#usage-guide)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## About WellnessWave
@@ -53,7 +51,7 @@ Once the development server is running, open `http://localhost:3000` in your web
 Have questions or feedback? Get in touch:
 
 - **Email:** maitypriyanka514@gmail.com & vaishnavishah6311@gmail.com
-- **GitHub:** [Priyanka26211](https://github.com/yourusername)
+- **GitHub:** (https://github.com/Priyanka26211) & (https://github.com/Vaishnavishah25)
 
 ---
 
