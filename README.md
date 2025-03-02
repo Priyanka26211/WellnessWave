@@ -52,9 +52,8 @@ Once the development server is running, open `http://localhost:3000` in your web
 ## Contact
 Have questions or feedback? Get in touch:
 
-- **Email:** your_email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Email:** maitypriyanka514@gmail.com & vaishnavishah6311@gmail.com
+- **GitHub:** [Priyanka26211](https://github.com/yourusername)
 
 ---
 
