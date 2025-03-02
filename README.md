@@ -25,7 +25,8 @@ Welcome to **WellnessWave** – your ultimate companion in mental health and wel
 - 🛡️ **Anonymity:** Use the platform while maintaining your privacy and anonymity.
 
 ## 🌟 Highlights & Screenshots
-![Home Page](path_to_home_page_screenshot.png)
+![Home Page](![Screenshot (568)](https://github.com/user-attachments/assets/be683249-3281-4a24-bac4-5b6c6961b43c)
+)
 *Home Page*
 
 ![Mood Tracker](path_to_mood_tracker_screenshot.png)
