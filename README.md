@@ -1,13 +1,10 @@
 # 🌊 WellnessWave
 
-![WellnessWave Logo](path_to_your_logo_image.png)
-
 Welcome to **WellnessWave** – your ultimate companion in mental health and well-being. Dive into a world where AI-driven insights meet gamification, creating a holistic approach to managing your mental wellness.
 
 ## 📚 Table of Contents
 - [About WellnessWave](#about-wellnesswave)
 - [Key Features](#key-features)
-- [🌟 Highlights & Screenshots](#highlights--screenshots)
 - [🚀 Getting Started](#getting-started)
 - [Usage Guide](#usage-guide)
 - [Contributing](#contributing)
@@ -24,20 +21,12 @@ Welcome to **WellnessWave** – your ultimate companion in mental health and wel
 - 📚 **Resource Library:** Access a curated selection of articles, videos, and resources for support.
 - 🛡️ **Anonymity:** Use the platform while maintaining your privacy and anonymity.
 
-## 🌟 Highlights & Screenshots
-![Home Page](![Screenshot (568)](https://github.com/user-attachments/assets/be683249-3281-4a24-bac4-5b6c6961b43c)
-)
-*Home Page*
-
-![Mood Tracker](path_to_mood_tracker_screenshot.png)
-*Mood Tracker*
-
 ## 🚀 Getting Started
 Follow these steps to get WellnessWave up and running:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/WellnessWave.git
+    git clone https://github.com/Priyanka26211/WellnessWave
     ```
 2. **Navigate to the project directory:**
     ```bash
@@ -59,17 +48,6 @@ Once the development server is running, open `http://localhost:3000` in your web
 - **Explore Resources:** Access the library for articles and videos.
 - **Engage in Activities:** Participate in gamified mental health exercises.
 
-## Contributing
-We love contributions! Here's how you can help:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature/your-feature-name`).
-5. Open a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 Have questions or feedback? Get in touch:
